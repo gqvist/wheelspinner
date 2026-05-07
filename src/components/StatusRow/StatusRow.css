@@ -1,0 +1,12 @@
+.status-row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+  margin-top: auto;
+  padding-top: 0.5dvh;
+  color: var(--color-footer);
+  font-size: 1rem;
+  font-weight: 700;
+}
